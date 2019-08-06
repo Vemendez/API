@@ -18,13 +18,8 @@
 ,"Lotoman"
 ,"Lion King"
 ,"Que Leon"
-,"Kingsman"]}
-  ]}
-  
-
-{
-  "category":[
-    { "id":2, "title": "GOT", "author": ["Tyrion Lannister"
+,"Kingsman"
+  ]},{ "id":2, "title": "GOT", "author": ["Tyrion Lannister"
     ,"Jaime Lannister"
     ,"Cersei Lannister"
     ,"Daenerys Targaryen"
@@ -41,14 +36,7 @@
     ,"Robb Stark"
     ,"Khal Drogo"
     ,"Ned Stark"
-    ]}
-  ]
-
-}
-
-{
-  "category":[
-    { "id":3, "title": "Songs", "author": ["Delicuente"
+    ]},{ "id":3, "title": "Songs", "author": ["Delicuente"
     ,"Ibiza"
     ,"Runaway"
     ,"Animals"
@@ -69,15 +57,7 @@
     ,"I Will always Love You","Mujeres"
     ,"Rakata"
     ,"Who Let the Dogs Out"
-    ]}
-  ]
-
-}
-
-
-{
-  "category":[
-    { "id":4, "title": "Cartoons", "author": ["Coraje El Perro Cobarde"
+    ]}, { "id":4, "title": "Cartoons", "author": ["Coraje El Perro Cobarde"
     ,"Isla del Drama"
     ,"La Pantera Rosa"
     ,"ED EDD Y EDDY"
@@ -94,13 +74,7 @@
     ,"Scooby Doo"
     ,"Los Padrinos Magicos"
     ,"Mi Compañero de Clase Es Un Mono"
-    ]}
-  ]
-
-}
-
-{
-  "category":[
+    ]},
     { "id":5, "title": "ACT IT OUT", "author": ["Aerobics"
     ,"Ballet"
     ,"Baseball"
@@ -126,5 +100,4 @@
     ,"Swimming"
     ]}
   ]
-
 }
